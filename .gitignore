@@ -1,2 +1,5 @@
 .env
 node_modules/
+git_token
+package.json
+package-lock.json
